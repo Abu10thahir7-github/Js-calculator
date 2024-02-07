@@ -32,6 +32,8 @@
     margin: 10px;
 }
 form .display{
+border: solid 2px black;
+border-radius: 10px;
 display: flex;
 justify-content: flex-end;
 margin: 20px 0;
